@@ -1,0 +1,13 @@
+students={
+   "student1":{ 
+    "name1":"joshitha",
+    "age":18,
+    "marks":9.8
+    },
+    "student2":{
+        "name2":"Junnu",
+        "age":19,
+        "marks":9.43
+    }
+    }
+print(students["student1"]["name1"])
